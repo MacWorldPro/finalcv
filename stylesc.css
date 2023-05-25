@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  background-color: #E4F9F5;
+  position: relative;
+
+}
+
+p{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: larger;
+  position: relative;
+
+}
+.name{
+  position: relative;
+}
+.email{
+  position: relative;
+  right: 10px;
+  top: 3px;
+
+}
+.purpose{
+  position: relative;
+  right: 49px;
+  top: 5px;
+
+}
+.submit{
+  position: relative;
+
+  top: 20px;
+
+}
+.mail{
+  position: relative;
+
+}
+.phone{
+  position: relative;
+  right: 35px;
+}
+button{
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  border-radius: 8px;
+  font-size: 20px;
+
+}
